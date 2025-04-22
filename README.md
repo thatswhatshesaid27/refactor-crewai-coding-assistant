@@ -75,8 +75,6 @@ GITHUB_TOKEN=your-github-token
 
 4. **Run CLI tool**
 
-- For analyzing a branch:
-
 ```bash
 python cli/main.py
 ```
