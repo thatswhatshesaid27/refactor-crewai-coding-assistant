@@ -5,7 +5,7 @@ import base64
 owner = "thatswhatshesaid27"
 repo = "Personal-Portfolio-HTML-CSS-only"
 pull_number = 6
-GITHUB_TOKEN = "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"  # Replace with your token
+GITHUB_TOKEN = ""  # Replace with your token
 
 # Headers
 headers = {
