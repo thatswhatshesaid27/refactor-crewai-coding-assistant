@@ -1,0 +1,24 @@
+.
+└── crewai_project/
+    ├── cli/
+    │   └── main.py
+    ├── crews/
+    │   ├── __init__.py
+    │   └── crew_setup.py
+    ├── embeddings/
+    │   ├── __init__.py
+    │   └── classfier.py
+    ├── github/
+    │   ├── __init__.py
+    │   ├── branch_utils.py
+    │   └── repo_utils.py
+    ├── tasks/
+    │   ├── __init__.py
+    │   └── task_factory.py
+    ├── utils/
+    │   ├── __init__.py
+    │   └── constants.py
+    ├── validator/
+    │   ├── __init__py
+    │   └── review_parser.py
+    └── .env
