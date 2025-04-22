@@ -107,16 +107,7 @@ fetch_pull_request_files("username/repo", 5)
 
 ---
 
-## ✨ Output Sample
 
-```
-Review results for /components/Navbar.js (from branch develop)
-⚠️ Unused export found: `NavbarHelper`
-✅ useEffect used correctly with empty dependency
-❌ import from '../utils/helper.js' is broken
-
-##########################################################
-```
 
 ---
 
