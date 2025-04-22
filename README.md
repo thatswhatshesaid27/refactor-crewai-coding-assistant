@@ -80,14 +80,6 @@ GITHUB_TOKEN=your-github-token
 ```bash
 python cli/main.py
 ```
-
-- For analyzing a PR (example for PR #5):
-
-```python
-# Inside main.py, call:
-fetch_pull_request_files("username/repo", 5)
-```
-
 ---
 
 ## 🧠 Technologies Used
@@ -106,11 +98,6 @@ fetch_pull_request_files("username/repo", 5)
 - Avoids boilerplate using extension and folder filters.
 
 ---
-
-
-
----
-
 ## 💡 Future Improvements
 
 - [ ] Add UI interface (Streamlit or React)
